@@ -29,15 +29,11 @@ $$ p_y = m v_0 \sin \theta - m g t
 
 
 ### Equations used:
-Restoring Torque:  
-
-$$\mathbf{T}_{restoring} = \mathbf{F}_{grav} \times \mathbf{d}_r \quad\quad \text{(Equation 6)} $$
+$$ Restoring Torque: \ \ \mathbf{T}_{restoring} = \mathbf{F}_{grav} \times \mathbf{d}_r \quad\quad \text{(Equation 6)} $$
 
 $$where  \mathbf{F}_{grav} = m\mathbf{g}\quad\quad \text{(Equation 7)}\quad and\quad  \mathbf{d}_r = width/2 \quad\quad \text{(Equation 8)} $$
 
-Applied Torque: 
-
-$$\mathbf{T}_{applied} = \mathbf{F}_{applied} \times \mathbf{d}_a \quad\quad \text{(Equation 9)} $$
+$$ Applied Torque: \ \ \mathbf{T}_{applied} = \mathbf{F}_{applied} \times \mathbf{d}_a \quad\quad \text{(Equation 9)} $$
 
 $$where \quad \mathbf{T}_{applied} = \text{momentum of ball/contact  time} \quad\quad \text{(Equation 10)}\quad and\quad \mathbf{d}_r = \text{the vector from the rotation point and contact point} $$
 
